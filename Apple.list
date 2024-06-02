@@ -2,13 +2,16 @@
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-06-03 02:09:57
-# HOST: 268
+# HOST: 271
 # HOST-KEYWORD: 7
 # HOST-SUFFIX: 1549
 # HOST-WILDCARD: 8
 # IP-CIDR: 10
 # USER-AGENT: 23
-# TOTAL: 1865
+# TOTAL: 1868
+HOST,appleid.apple.com,Apple
+HOST,gsa.apple.com,Apple
+HOST,idmsa.apple.com,Apple
 HOST,apps.apple.com,Apple
 HOST,a1.mzstatic.com,Apple
 HOST,a2.mzstatic.com,Apple
