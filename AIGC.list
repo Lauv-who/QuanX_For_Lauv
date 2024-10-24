@@ -1,0 +1,65 @@
+# > OpenAI
+# >> ChatGPT
+host-suffix,chatgpt.com,OpenAI
+host-suffix,chat.openai.com,OpenAI
+
+# >> OpenAI Challenge & SSO
+host-suffix,auth0.openai.com,OpenAI
+host,challenges.cloudflare.com,OpenAI
+
+# >> OpenAI Related
+host-suffix,ai.com,OpenAI
+host-suffix,openai.com,OpenAI
+host-suffix,apps.openai.com,OpenAI
+host-suffix,sentry.io,OpenAI
+host-suffix,intercom.io,OpenAI
+host-suffix,identrust.com,OpenAI
+
+# >> OpenAI Static Files
+host-wildcard,*.oaistatic.com,OpenAI
+host-wildcard,*.oaiusercontent.com,OpenAI
+
+# >> OpenAI CDN
+host-suffix,chat.openai.com.cdn.cloudflare.net,OpenAI
+host-suffix,openaiapi-site.azureedge.net,OpenAI
+host-suffix,openai.com.cdn.cloudflare.net,OpenAI
+
+# >> OpenAI Other
+host-suffix,challenges.cloudflare.com,OpenAI
+host-suffix,invoice.stripe.com,OpenAI
+host-suffix,stripe.com,OpenAI
+host-suffix,poe.com,OpenAI
+host,openaicom.imgix.net,OpenAI
+host,openaicomproductionae4b.blob.core.windows.net,OpenAI
+host,production-openaicom-storage.azureedge.net,OpenAI
+
+# >> Others
+host,o33249.ingest.sentry.io,Shawn
+host-suffix,ai.com,Shawn
+host-suffix,oaistatic.com,Shawn
+host-suffix,oaiusercontent.com,Shawn
+host,api.githubcopilot.com,Shawn
+host,copilot-proxy.githubusercontent.com,Shawn
+host,copilot.microsoft.com,Shawn
+host,sydney.bing.com,Shawn
+host,www.bing.com,Shawn
+host,bard.google.com,Shawn
+host,gemini.google.com,Shawn
+host,generativelanguage.googleapis.com,Shawn
+host,ai.google.dev,Shawn
+host,aida.googleapis.com,Shawn
+host,aistudio.google.com,Shawn
+host,alkalimakersuite-pa.clients6.google.com,Shawn
+host,makersuite.google.com,Shawn
+host-suffix,anthropic.com,Shawn
+host-suffix,claude.ai,Shawn
+ip-cidr,160.79.104.0/23,no-resolve
+ip6-cidr,2607:6bc0::/48,no-resolve
+host-suffix,grazie.ai,Shawn
+host-suffix,grazie.aws.intellij.net,Shawn
+host,imagine.meta.com,Shawn
+host-suffix,meta.ai,Shawn
+host-suffix,perplexity.ai,Shawn
+host,chat.mistral.ai,Shawn
+host,console.mistral.ai,Shawn
+host-suffix,mistral.ai,Shawn
